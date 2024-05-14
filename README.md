@@ -5,7 +5,9 @@ TOOLS USED
 - nltk libarary
 - keras
 - flask
+  
 MAIN STEPS
+
 - getting the right data - we are storing the questions answers in an JSON format in a file - intents.json
 - cleaning, lematizing and everthing that is necesaary for the initial setup and saving 2 pickle files as - words.pkl and classes.pkl
 - and creating Bag of Words
